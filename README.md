@@ -7,3 +7,4 @@ See also:
 * https://it.mathworks.com/products/matlab/matlab-vs-python.html
 * https://stackshare.io/stackups/matlab-vs-matplotlib
 * https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+* https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html
